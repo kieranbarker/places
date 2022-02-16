@@ -1,1 +1,3 @@
-// The code for home page should run here
+import { loadIcons } from './components/dom.js';
+
+loadIcons();

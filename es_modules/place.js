@@ -1,1 +1,4 @@
-// The code for individual place pages should run here
+import './components/events.js';
+import { loadButtons } from './components/dom.js';
+
+loadButtons();
