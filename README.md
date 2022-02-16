@@ -4,3 +4,4 @@ This is the third project from the [Advanced JavaScript: Structure &amp; Scale](
 
 
 1. [Accessibility audit](https://github.com/kieranbarker/places/tree/main/a11y_audit)
+2. [ES modules](https://github.com/kieranbarker/places/tree/main/es_modules)
